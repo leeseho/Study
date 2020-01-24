@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="SWEA_1767_A_processor.cpp">
+    <ClCompile Include="SWEA_9317_writing_test.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
